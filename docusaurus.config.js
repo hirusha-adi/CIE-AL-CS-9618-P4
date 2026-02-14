@@ -16,12 +16,12 @@ const config = {
   url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Cambridge-A-Level-Computer-Science-9618-4/',
+  baseUrl: '/CCIE-AL-CS-9618-P4/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'hirusha-adi', // Usually your GitHub org/user name.
-  projectName: 'Cambridge-A-Level-Computer-Science-9618-4', // Usually your repo name.
+  projectName: 'CIE-AL-CS-9618-P4', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
